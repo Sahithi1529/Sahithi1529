@@ -7,8 +7,8 @@
 
 Let’s connect and build something amazing together! 🚀
 Email    : sahithireddypasham29@gmail.com
-Linkedin : [https://www.linkedin.com/in/sahithi-pasham/]
-leetcode : [https://leetcode.com/u/Sahithi29/]
+Linkedin : https://www.linkedin.com/in/sahithi-pasham/
+leetcode : https://leetcode.com/u/Sahithi29/
 
 
 
