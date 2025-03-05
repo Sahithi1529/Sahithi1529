@@ -6,9 +6,9 @@
 🔍 Exploring new tech and building innovative projects
 
 Let’s connect and build something amazing together! 🚀\
-Email    : sahithireddypasham29@gmail.com\
-Linkedin : https://www.linkedin.com/in/sahithi-pasham/ \
-Leetcode : https://leetcode.com/u/Sahithi29/
+**Email**    : sahithireddypasham29@gmail.com\
+**Linkedin** : https://www.linkedin.com/in/sahithi-pasham/ \
+**Leetcode** : https://leetcode.com/u/Sahithi29/
 
 
 
