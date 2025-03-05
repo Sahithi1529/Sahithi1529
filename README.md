@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey, I’m Sahithi! 👋
 
-<!--
-**Sahithi1529/Sahithi1529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student at Anurag University
+💡 Technology Enthusiast & Continuous Learner
+🚀 Passionate about Artificial Intelligence, Machine Learning, and Software Development
+🔍 Exploring new tech and building innovative projects
 
-Here are some ideas to get you started:
+Let’s connect and build something amazing together! 🚀
+Email    : sahithireddypasham29@gmail.com
+Linkedin : [https://www.linkedin.com/in/sahithi-pasham/]{link}
+leetcode : [https://leetcode.com/u/Sahithi29/]{link}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
